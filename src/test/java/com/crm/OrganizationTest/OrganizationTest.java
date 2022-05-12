@@ -23,6 +23,7 @@ public class OrganizationTest
 	public void deleteOrg()
 	{
 		System.out.println("execute deleteOrg");
+		System.out.println("execute deleteOrg");
 	}
 
 }
