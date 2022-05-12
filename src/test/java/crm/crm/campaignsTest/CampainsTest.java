@@ -14,6 +14,8 @@ public class CampainsTest
 	public void modifyCampaign()
 	{
 		System.out.println("execute modifyCampaign");
+		System.out.println("2nd Campaign");
+		System.out.println("3rd Campaign");
 	}
 
 	@Test(groups="regressionTest")
